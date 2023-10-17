@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DIKSA799
 - 👀 I’m interested in Web/App Development and Security(Ethical Hacking)
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on AI and Nano Technology
+- 💞️ I’m looking to collaborate on AI, Penetration Testing, Software Development or Technology
 - 📫 How to reach me https://wa.me/+2348127234628
 
 <!---
